@@ -37,3 +37,9 @@ Ya teniendo la variable de entorno configurada podemos levantar el servidor de d
 ```bash
 php -S localhost:8000
 ```
+
+# Visualización de la pagina
+
+<img src="https://github.com/user-attachments/assets/32765394-3d12-4320-b1b1-0faf3b0a4d66" alt="Pagina web" style="width: 960px;" />
+
+

@@ -4,6 +4,10 @@ Esta pagina web con PHP sin frameworks esta pensada para aprender y practicar PH
 
 - [Enlace al playground de la API en RapidAPI.](https://rapidapi.com/weatherapi/api/weatherapi-com/playground/apiendpoint_bef542ef-a177-4633-aacc-ee9703945037)
 
+# Visualización de la pagina
+
+![project-time-php-preview](./preview/project-time-php.webp)
+
 # Como empezar iniciar servicio
 
 Clonar repositorio de github.
@@ -37,9 +41,3 @@ Ya teniendo la variable de entorno configurada podemos levantar el servidor de d
 ```bash
 php -S localhost:8000
 ```
-
-# Visualización de la pagina
-
-<img src="https://github.com/user-attachments/assets/32765394-3d12-4320-b1b1-0faf3b0a4d66" alt="Pagina web" style="width: 960px;" />
-
-
